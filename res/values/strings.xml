@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YJSoft 공식 앱</string>
+    <string name="app_desc">YJSoft 공식 앱입니다.</string>
+    <string name="back_to_exit" >한번 더 뒤로가기를 눌러 종료</string>
+    <string name="menu_go_back" >뒤로</string>
+    <string name="menu_quit" >종료</string>
+    <string name="btn_ok">확인</string>
+    <string name="made_by">앱 제작:YJSoft(yjsoft@yjsoft.pe.kr)</string>
+    <string name="menu_about">제작자</string>
+    <string name="url">http://yjsoft.pe.kr</string>
+    <string name="menu_family">패밀리 사이트</string>
+    <string name="yjsoft_off">YJSoft</string>
+    <string name="yjsoft_blog">YJSoft Blog</string>
+    <string name="kmc_blog">KMC Project Blog</string>
+    <string name="indexbot">어마금 트위터 커뮤니티</string>
+    <string name="yjsoft_blog_url">http://blog.yjsoft.pe.kr</string>
+    <string name="kmc_blog_url">http://kmc.yjsoft.pe.kr</string>
+    <string name="indexbot_url">http://indexbot.me</string>
+    <string name="btn_cancel">취소</string>
+    <string name="quit_confirm">종료하시겠습니까?</string>
+</resources>
